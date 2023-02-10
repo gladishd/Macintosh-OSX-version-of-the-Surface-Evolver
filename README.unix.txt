@@ -1,3 +1,6 @@
+To run the Surface Evolver, type the following command in the terminal:
+./evolver
+
 Instructions for installing the Surface Evolver on unix-style systems.
 
 Quick start:
