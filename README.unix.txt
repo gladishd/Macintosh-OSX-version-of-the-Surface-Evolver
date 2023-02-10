@@ -1,5 +1,9 @@
 To run the Surface Evolver, type the following command in the terminal:
 ./evolver
+StartProcess::pnfd: Program /Users/deangladish/src/Evolver270-OSX/evolver not found. Check Environment["PATH"].
+Move the Evolver270-OSX folder from /Users/deangladish/Downloads to /Users/deangladish/src .
+To bypass the error message "“evolver” cannot be opened because the developer cannot be verified." and open the application, you need to make changes to the security settings on your Mac:
+xattr -d com.apple.quarantine evolver
 
 Instructions for installing the Surface Evolver on unix-style systems.
 
